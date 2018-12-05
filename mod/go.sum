@@ -1,0 +1,6 @@
+github.com/amansardana/testmod v1.0.0 h1:QLHAJZN6FDI5mVgeOQ59LH7ayei++OMQXwDtH9SIaq8=
+github.com/amansardana/testmod v1.0.0/go.mod h1:TWBE1bzyS/RR8+3LGTDrbIF2mpv/+5OblpC/izinYlU=
+github.com/amansardana/testmod v1.0.1 h1:QAzn7IXH1HOo+Q60yqCTyJ2rEMIYnm0KEz2trXwQlQ0=
+github.com/amansardana/testmod v1.0.1/go.mod h1:TWBE1bzyS/RR8+3LGTDrbIF2mpv/+5OblpC/izinYlU=
+github.com/amansardana/testmod/v2 v2.0.0 h1:uZKQwmZqKQeRmqvzZWb8orrqemMNSaLgikEKVm4w7BA=
+github.com/amansardana/testmod/v2 v2.0.0/go.mod h1:4NVFcA9NZhwAIZDf5aBkAqparzO1J0GqoBqc1lufKEk=

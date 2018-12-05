@@ -1,1 +1,1 @@
-module github.com/amansardana/testmod
+module github.com/amansardana/testmod/v2
